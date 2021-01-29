@@ -1,0 +1,305 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+
+    /* nav responsive start */
+    .navbar-nav .nav-item {
+        text-align: center;
+    }
+
+    /* nav responsive end */
+    /* hero responsive start */
+    .hero_content h1 {
+        font-size: 50px;
+        margin-top: 200px;
+    }
+
+    .hero_content a {
+        margin-bottom: 200px;
+    }
+
+    /* hero responsive end */
+    /* about responsive start */
+    .about_content h4 {
+        margin-top: 80px;
+    }
+
+    .about_content {
+        text-align: center;
+    }
+
+    /* about responsive end */
+    /* service responsive start */
+    .service_card {
+        text-align: center;
+    }
+
+    .ser_card_icon {
+        margin-right: auto;
+        margin-bottom: 20px;
+    }
+
+    /* service responsive end */
+    /* portfolio responsive start */
+    .port_heading h4 {
+        margin-top: 50px;
+    }
+
+    /* portfolio responsive end */
+    /* funfact responsive start */
+    .funfact_content {
+        margin-top: 40px;
+    }
+
+    /* funfact responsive end */
+    /* blog responsive start */
+    .blog_card {
+        margin-bottom: 45px;
+        text-align: center;
+    }
+
+    #blog {
+        padding-bottom: 90px;
+    }
+
+    .blog_card h6 {
+        margin-top: 30px;
+        margin-bottom: 15px;
+    }
+
+    /* blog responsive end */
+    /* cta responsive start */
+    .cta_content p a {
+        margin-top: 25px;
+    }
+
+    /* cta responsive end */
+    /* footer responsive start */
+    .footer_hr {
+        display: none;
+    }
+
+    .footer_content_1 {
+        text-align: center;
+    }
+
+    .footer_content_2 {
+        padding-top: 50px;
+    }
+
+    /* footer responsive end */
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+    /* nav responsive start */
+    .navbar-nav {
+        flex-direction: row;
+        justify-content: space-around;
+        margin-top: 20px;
+    }
+
+    .navbar-nav .nav-item {
+        text-align: center;
+    }
+
+    /* nav responsive end */
+    /* hero responsive start */
+    .hero_content h1 {
+        font-size: 50px;
+        margin-top: 200px;
+    }
+
+    .hero_content a {
+        margin-bottom: 200px;
+    }
+
+    /* hero responsive end */
+    /* about responsive start */
+    .about_content h4 {
+        margin-top: 80px;
+    }
+
+    .about_content {
+        text-align: center;
+    }
+
+    /* about responsive end */
+    /* service responsive start */
+    .service_card {
+        text-align: center;
+    }
+
+    .ser_card_icon {
+        margin-right: auto;
+        margin-bottom: 20px;
+    }
+
+    /* service responsive end */
+    /* portfolio responsive start */
+    .port_heading h4 {
+        margin-top: 50px;
+    }
+
+    /* portfolio responsive end */
+    /* funfact responsive start */
+    .funfact_content {
+        margin-top: 40px;
+    }
+
+    /* funfact responsive end */
+    /* blog responsive start */
+    .blog_card {
+        margin-bottom: 45px;
+        text-align: center;
+    }
+
+    #blog {
+        padding-bottom: 90px;
+    }
+
+    .blog_card h6 {
+        margin-top: 30px;
+        margin-bottom: 15px;
+    }
+
+    /* blog responsive end */
+    /* cta responsive start */
+
+
+    /* cta responsive end */
+    /* footer responsive start */
+    .footer_hr {
+        display: none;
+    }
+
+    .footer_content_1 {
+        text-align: center;
+    }
+
+    .footer_content_2 {
+        padding-top: 50px;
+    }
+
+    .footer_content_2 ul li {
+        display: flex;
+        justify-content: flex-end;
+    }
+
+    /* footer responsive end */
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+    /* nav responsive start */
+    .navbar-nav {
+        flex-direction: row;
+        justify-content: space-around;
+        margin-top: 20px;
+    }
+
+    /* nav responsive end */
+    /* hero responsive start */
+    .about_content {
+        text-align: center;
+    }
+
+    /* hero responsive end */
+    /* about responsive start */
+    /* about responsive end */
+    /* service responsive start */
+    .ser_card_icon {
+        margin-bottom: 25px;
+        margin-right: auto;
+    }
+
+    .ser_card_con {
+        text-align: center;
+    }
+
+    /* service responsive end */
+    /* portfolio responsive start */
+    /* portfolio responsive end */
+    /* funfact responsive start */
+    /* funfact responsive end */
+    /* blog responsive start */
+    /* blog responsive end */
+    /* cta responsive start */
+    /* cta responsive end */
+    /* footer responsive start */
+    .footer_content_1 p {
+        font-size: 16px;
+    }
+
+    .footer_content_2 ul li {
+        margin-bottom: 75px;
+    }
+
+    /* footer responsive end */
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+    /* nav responsive start */
+
+
+    /* nav responsive end */
+    /* hero responsive start */
+    /* hero responsive end */
+    /* about responsive start */
+    .about_content h4 {
+        margin-top: 85px;
+    }
+
+    /* about responsive end */
+    /* service responsive start */
+    .ser_card_icon {
+        margin-right: auto;
+        margin-bottom: 20px;
+    }
+
+    .ser_card_con {
+        text-align: center;
+    }
+
+    /* service responsive end */
+    /* portfolio responsive start */
+    /* portfolio responsive end */
+    /* funfact responsive start */
+    /* funfact responsive end */
+    /* blog responsive start */
+    /* blog responsive end */
+    /* cta responsive start */
+    /* cta responsive end */
+    /* footer responsive start */
+    /* footer responsive end */
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+
+    /* nav responsive start */
+    .navbar-nav .nav-item {
+        text-align: center;
+    }
+
+    /* nav responsive end */
+    /* hero responsive start */
+    /* hero responsive end */
+    /* about responsive start */
+    /* about responsive end */
+    /* service responsive start */
+    /* service responsive end */
+    /* portfolio responsive start */
+    /* portfolio responsive end */
+    /* funfact responsive start */
+    /* funfact responsive end */
+    /* blog responsive start */
+    /* blog responsive end */
+    /* cta responsive start */
+    /* cta responsive end */
+    /* footer responsive start */
+    /* footer responsive end */
+}
